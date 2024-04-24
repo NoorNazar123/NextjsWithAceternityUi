@@ -13,7 +13,7 @@ const WavyBack = () => {
 <p className="text-base md:text-2xl mt-6 text-white font-normal inter-var text-center">
   Explore innovative techniques and tools to enhance your web projects
 </p>
-
+ 
         </div>
       </WavyBackground>
     </div>

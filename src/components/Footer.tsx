@@ -11,7 +11,7 @@ function Footer() {
              fostering a vibrant community of musicians.
            </p>
          </div>
-         <div>
+         <div> 
            <h2 className="text-white text-lg font-semibold mb-4">Quick Links</h2>
            <ul>
              <li>

@@ -24,7 +24,7 @@ const content = [
        </div>
      ),
    },
-   {
+   { 
      title: "Modern Web Technologies",
      description:
        "Stay ahead of the curve with the latest web technologies and frameworks. Our platform provides you with the tools and resources you need to master technologies like React, Vue.js, Angular, and more, enabling you to build cutting-edge web applications with ease.",

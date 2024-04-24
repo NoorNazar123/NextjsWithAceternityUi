@@ -43,7 +43,7 @@ const AnimatedTooltipPreview = () => {
           <AnimatedTooltip items={people} />
         </span>
    
- </div>
+ </div> 
   )
 }
 

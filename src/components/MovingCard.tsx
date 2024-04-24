@@ -44,7 +44,7 @@ const MovingCard = () => {
           <h2 className="my-4 text-3xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">
             Here are our Successfull Story
           </h2> 
-        </div>
+        </div> 
         <InfiniteMovingCards
           items={testimonials}
           direction="right"

@@ -10,7 +10,7 @@ const FeatureCard = () => {
     slug: string;
     description: string;
     price: number;
-    instructor: string;
+    instructor: string; 
     isFeatured: boolean;
   }
   const featuredCourses = courseDataa.courses.filter(
