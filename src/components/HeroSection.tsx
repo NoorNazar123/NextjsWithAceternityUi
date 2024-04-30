@@ -15,11 +15,11 @@ const HeroSection = () => {
         </h1>
         <p className="mt-6 font-normal text-base md:text-lg text-neutral-300 max-w-2xl mx-auto">
           Dive into our comprehensive music courses and transform your musical
-          journey today. Whether you are a beginner or looking to refine your
-          skills, join us to unlock your true potential.
+          journey today Whether you are a beginner or looking to refine your 
+          skills join us to unlock your true potential
         </p>
         <div className="mt-4"> 
-          <Link href={"/courses"}>
+          <Link href={"/courses"}>   
             <Button
               borderRadius="1.75rem"
               className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
