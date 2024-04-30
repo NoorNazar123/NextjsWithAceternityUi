@@ -1,5 +1,5 @@
 import { Spotlight } from "./ui/Spotlight";
-import { Button } from "./ui/moving-border";
+import { Button } from "./ui/moving-border"; 
 import Link from "next/link";
 
 const HeroSection = () => {
@@ -28,7 +28,7 @@ const HeroSection = () => {
             </Button>
           </Link>
         </div>
-      </div>
+      </div> 
     </div>
   );
 };
